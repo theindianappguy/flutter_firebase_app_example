@@ -28,6 +28,7 @@ class _SignInState extends State<SignIn> {
   @override
   Widget build(BuildContext context) {
     return loading ? Loading() : Scaffold(
+      resizeToAvoidBottomPadding: false,
       backgroundColor: Colors.brown[100],
       appBar: AppBar(
         backgroundColor: Colors.brown[400],
@@ -91,9 +92,7 @@ class _SignInState extends State<SignIn> {
                         if(result == null){
                           setState(() {
                             error = "please supply a valid email";
-                            setState(() {
-                              loading = false;
-                            });
+                            loading = false;
                           });
                         }
                       }
