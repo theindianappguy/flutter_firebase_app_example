@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836744174627",
+    "firebase_url": "https://indian-brew-crew.firebaseio.com",
+    "project_id": "indian-brew-crew",
+    "storage_bucket": "indian-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836744174627:android:9c2ee7e5846d9cd9fb6596",
+        "android_client_info": {
+          "package_name": "com.theindianappguy.flutter_firebase_app_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836744174627-pel7l97modckpj5adebl7qkpr6jnek73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theindianappguy.flutter_firebase_app_example",
+            "certificate_hash": "ac0c10d19a0c6c05334e4691ff11fadf39edc4f9"
+          }
+        },
+        {
+          "client_id": "836744174627-ejde333fcfalla7igrlsgtl6egpj3kcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGfTrOsgwK5oEWpBi3eKydRCxRWvj-Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836744174627-ejde333fcfalla7igrlsgtl6egpj3kcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
